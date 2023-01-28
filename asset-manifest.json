@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/advice-app/static/css/main.eef4fa74.css",
+    "main.js": "/advice-app/static/js/main.256e4c9e.js",
+    "static/media/city.jpeg": "/advice-app/static/media/city.902d87cf991a2b0ad945.jpeg",
+    "index.html": "/advice-app/index.html",
+    "main.eef4fa74.css.map": "/advice-app/static/css/main.eef4fa74.css.map",
+    "main.256e4c9e.js.map": "/advice-app/static/js/main.256e4c9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eef4fa74.css",
+    "static/js/main.256e4c9e.js"
+  ]
+}
